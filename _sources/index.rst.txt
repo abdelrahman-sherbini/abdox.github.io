@@ -7,8 +7,7 @@ Welcome to abdo-github's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 5
-   :caption: Contents:
+   :maxdepth: 0
 
    coaa
 
@@ -19,3 +18,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`coaa`
